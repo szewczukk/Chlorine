@@ -7,8 +7,8 @@
 <Dzien dobry!>{1}
 
 (Kasia)[Co tam?]{1}
-<Wszysto w porz¹dku>{3}
-<Wszysto gra>{3}
-<Jakoœ leci>{3}
+<Wszysto w porz¹dku>{2}
+<Wszysto gra>{2}
+<Jakoœ leci>{2}
 
-(Kasia)[]{3}
+(Kasia)[]{2}
