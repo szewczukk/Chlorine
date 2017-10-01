@@ -1,0 +1,14 @@
+!person
+#background
+
+(Kasia)[Czeœæ!]{0}
+<Siema!>{1}
+<Czesc!>{1}
+<Dzien dobry!>{1}
+
+(Kasia)[Co tam?]{1}
+<Wszysto w porz¹dku>{3}
+<Wszysto gra>{3}
+<Jakoœ leci>{3}
+
+(Kasia)[]{3}
